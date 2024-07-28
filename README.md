@@ -1,5 +1,6 @@
 ## Upcoming Competitions
 
 #### Unstop
-1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (Coding - )
-2. TVS Credit E.P.I.C 6.0 (Case study)
+1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (Coding - No dates)
+2. [TVS Credit E.P.I.C 6.0](https://unstop.com/competitions/tvs-credit-epic-60-analytics-challenge-epic-season-6-tvs-credit-1067484) (Case study - 11 Aug 24)
+3. 
