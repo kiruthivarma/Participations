@@ -15,4 +15,6 @@ Below are the competitions registered by me to prepare & participate...
 The websites that I used to refer for new competitions
 
 1. [innovationchallenge.com](https://innovationchallenge.com)
-2. 
+2. [hack2skill.com](https://hack2skill.com)
+3. [unstop.com](https://unstop.com)
+4. Sole (By social platforms)
