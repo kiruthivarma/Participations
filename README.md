@@ -9,8 +9,9 @@ Below are the competitions registered by me to prepare & participate...
 
 ### 2. Hackathons
 1. [Hashathon: FOSS, Open Source, AI & SaaS](https://unstop.com/hackathons/hashathon-foss-open-source-ai-saas-onehash-1100461) (6 Aug 24)
-2. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
-3. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
+2. [Sparkathon](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) (16 Aug 24)
+3. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
+4. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
 
 ### 3. Case study
 1. [TVS Credit E.P.I.C 6.0](https://unstop.com/competitions/tvs-credit-epic-60-analytics-challenge-epic-season-6-tvs-credit-1067484) (11 Aug 24)
