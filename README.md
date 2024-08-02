@@ -20,3 +20,8 @@ The websites that I used to refer for new competitions
 3. [unstop.com](https://unstop.com)
 4. Sole (By social platforms)
 
+## Legacy Competitions
+1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
+2. [Flipkart Grid](https://unstop.com/all-opportunities?oppstatus=recent&searchTerm=grid) (July)
+3. [TVS Credit E.P.I.C](https://unstop.com/competitions/tvs-credit-epic-60-it-challenge-epic-season-6-tvs-credit-1067496) (July)
+4. 
