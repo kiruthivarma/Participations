@@ -3,6 +3,7 @@ Below are the competitions registered by me to prepare & participate...
 
 ### Coding & Quiz
 1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (Coding - No dates)
+2. [RoboWiz ](https://unstop.com/quiz/robowiz-quiz-roboticio-1070368?rstatus=1)Quiz (Aug 3)
 
 ### Hackathons
 1. [Social Shifters](https://socialshifters.innovationchallenge.com/register) (Hackathon - 31 Jul 24)
