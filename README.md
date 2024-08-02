@@ -3,7 +3,6 @@
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
-
 ### 1. Coding & Quiz
 1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (No dates)
 2. [RoboWiz ](https://unstop.com/quiz/robowiz-quiz-roboticio-1070368?rstatus=1)Quiz (Aug 3)
