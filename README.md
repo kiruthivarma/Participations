@@ -1,11 +1,12 @@
 ## On Progress
+The listed ones are the ones I am waiting for the results to move to the next round
 1. [Social Shifters](https://socialshifters.innovationchallenge.com/register) (Sept)
+2. [TATA Crucible Campus Quiz 2024](https://unstop.com/quiz/tata-crucible-campus-quiz-2024-tata-crucible-990689) (No Dates)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
 ### 1. Coding & Quiz
 1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (No dates)
-2. [RoboWiz ](https://unstop.com/quiz/robowiz-quiz-roboticio-1070368?rstatus=1)Quiz (Aug 3)
 
 ### 2. Hackathons
 1. [Hashathon: FOSS, Open Source, AI & SaaS](https://unstop.com/hackathons/hashathon-foss-open-source-ai-saas-onehash-1100461) (6 Aug 24)
@@ -15,6 +16,10 @@ Below are the competitions registered by me to prepare & participate...
 
 ### 3. Case study
 1. [TVS Credit E.P.I.C 6.0](https://unstop.com/competitions/tvs-credit-epic-60-analytics-challenge-epic-season-6-tvs-credit-1067484) (11 Aug 24)
+
+## Final Results
+Just waiting for the final results to arrive
+1. [RoboWiz ](https://unstop.com/quiz/robowiz-quiz-roboticio-1070368?rstatus=1)Quiz
 
 ## Legacy Competitions
 1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
