@@ -9,7 +9,7 @@ Below are the competitions registered by me to prepare & participate...
 1. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250) (No dates)
 
 ### 2. Hackathons
-1. [Hashathon: FOSS, Open Source, AI & SaaS](https://unstop.com/hackathons/hashathon-foss-open-source-ai-saas-onehash-1100461) (6 Aug 24)
+1. [Hashathon: FOSS, Open Source, AI & SaaS](https://unstop.com/hackathons/hashathon-foss-open-source-ai-saas-onehash-1100461) (12 Aug 24)
 2. [Sparkathon](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) (16 Aug 24)
 3. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
 4. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
