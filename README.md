@@ -30,7 +30,7 @@ Just waiting for the final results to arrive
 2. [Flipkart Grid](https://unstop.com/all-opportunities?oppstatus=recent&searchTerm=grid) (July)
 3. [TVS Credit E.P.I.C](https://unstop.com/competitions/tvs-credit-epic-60-it-challenge-epic-season-6-tvs-credit-1067496) (July)
 4. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (July)
-5. Smart India Hackathon
+5. [Smart India Hackathon](https://www.sih.gov.in/) (Aug)
 6. SRI SHTI
 
 ## Competition Sources (Checklist)
