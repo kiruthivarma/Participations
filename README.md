@@ -22,7 +22,7 @@ Below are the competitions registered by me to prepare & participate...
 
 ## Final Results
 Just waiting for the final results to arrive
-1. [RoboWiz ](https://unstop.com/quiz/robowiz-quiz-roboticio-1070368?rstatus=1)Quiz
+1. 
 
 ## Legacy Competitions
 1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
