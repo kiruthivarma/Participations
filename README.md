@@ -12,6 +12,7 @@ Below are the competitions registered by me to prepare & participate...
 1. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
 2. [Sparkathon](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) (16 Aug 24)
 3. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
+4. [Smart India Hackathon 2024](https://www.sih.gov.in/) (12 Sept 24)
 
 ### 3. Case study
 1. 
