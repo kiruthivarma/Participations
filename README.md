@@ -11,7 +11,8 @@ Below are the competitions registered by me to prepare & participate...
 1. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
 2. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
 3. [Smart India Hackathon 2024](https://www.sih.gov.in/) (12 Sept 24)
-4. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250)  ()
+4. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250)  (26 Aug 24)
+5. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
 
 ### 3. Case study
 1. 
@@ -32,7 +33,9 @@ Just waiting for the final results to arrive
 4. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (July)
 5. [Smart India Hackathon](https://www.sih.gov.in/) (Aug)
 6. SRI SHTI
-7. Sa
+7. Tata Imagination Challenge (Aug)
+8. Tata Crucible Campus Quiz
+
 
 ## Competition Sources (Checklist)
 The websites that I used to refer for new competitions
