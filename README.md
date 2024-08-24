@@ -13,6 +13,7 @@ Below are the competitions registered by me to prepare & participate...
 3. [Smart India Hackathon 2024](https://www.sih.gov.in/) (12 Sept 24)
 4. [Flipkart GRID 6.0](https://unstop.com/hackathons/flipkart-grid-60-information-security-challenge-flipkart-grid-60-flipkart-1024250)  (26 Aug 24)
 5. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
+6. [D2C.Connect Hackathon 2024](https://unstop.com/hackathons/d2cconnect-hackathon-2024-growbinar-1138613?rstatus=1) (12 Sept 24)
 
 ### 3. Case study
 1. 
