@@ -14,9 +14,6 @@ Below are the competitions registered by me to prepare & participate...
 4. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
 5. [D2C.Connect Hackathon 2024](https://unstop.com/hackathons/d2cconnect-hackathon-2024-growbinar-1138613?rstatus=1) (12 Sept 24)
 
-### 3. Case study
-1. 
-
 ## Discontinued Competitions
 1. [TVS Credit E.P.I.C 6.0](https://unstop.com/competitions/tvs-credit-epic-60-analytics-challenge-epic-season-6-tvs-credit-1067484) 
 2. [Hashathon: FOSS, Open Source, AI & SaaS](https://unstop.com/hackathons/hashathon-foss-open-source-ai-saas-onehash-1100461)
