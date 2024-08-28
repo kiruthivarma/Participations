@@ -5,7 +5,7 @@ The listed ones are the ones I am waiting for the results to move to the next ro
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
 ### 1. Coding & Quiz
-1. [TATA Crucible Campus Quiz 2024](https://unstop.com/quiz/tata-crucible-campus-quiz-2024-tata-crucible-990689) (18 Aug 24)
+1. [TATA Crucible Campus Quiz 2024](https://unstop.com/quiz/tata-crucible-campus-quiz-2024-tata-crucible-990689) (31 Aug 24)
 
 ### 2. Hackathons
 1. [Hack-A-Sol 3.0](https://unstop.com/hackathons/hack-a-sol-30-2024-25-international-institute-of-information-technology-iiit-naya-raipur-1088596) (22 Aug 24)
