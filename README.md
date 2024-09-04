@@ -1,6 +1,7 @@
 ## On Progress
 The listed ones are the ones I am waiting for the results to move to the next round
 1. [Social Shifters](https://socialshifters.innovationchallenge.com/register) (Sept)
+2. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
@@ -10,8 +11,7 @@ Below are the competitions registered by me to prepare & participate...
 ### 2. Hackathons
 1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
 2. [Smart India Hackathon 2024](https://www.sih.gov.in/) (12 Sept 24)
-3. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
-4. [D2C.Connect Hackathon 2024](https://unstop.com/hackathons/d2cconnect-hackathon-2024-growbinar-1138613?rstatus=1) (12 Sept 24)
+3. [D2C.Connect Hackathon 2024](https://unstop.com/hackathons/d2cconnect-hackathon-2024-growbinar-1138613?rstatus=1) (12 Sept 24)
 
 ## Discontinued Competitions
 1. [TVS Credit E.P.I.C 6.0](https://unstop.com/competitions/tvs-credit-epic-60-analytics-challenge-epic-season-6-tvs-credit-1067484) 
