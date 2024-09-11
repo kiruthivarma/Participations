@@ -1,7 +1,7 @@
 ## On Progress
 The listed ones are the ones I am waiting for the results to move to the next round
-1. [Social Shifters](https://socialshifters.innovationchallenge.com/register) (Sept)
-2. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (9 Sept 24)
+1. [Social Shifters](https://socialshifters.innovationchallenge.com/register) (29 Sept 24)
+2. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (13 Sept 24)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
@@ -32,7 +32,7 @@ Just waiting for the final results to arrive
 5. [Smart India Hackathon](https://www.sih.gov.in/) (Aug)
 6. SRI SHTI
 7. Tata Imagination Challenge (Aug)
-8. Tata Crucible Campus Quiz
+8. Tata Crucible Campus Quiz (Aug)
 
 
 ## Competition Sources (Checklist)
