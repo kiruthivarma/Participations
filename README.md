@@ -9,8 +9,8 @@ Below are the competitions registered by me to prepare & participate...
 1. 
 
 ### 2. Hackathons
-1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (30 Sept 24)
-2. [Smart India Hackathon 2024](https://www.sih.gov.in/) (12 Sept 24)
+1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (13 Sept 24)
+2. [Smart India Hackathon 2024](https://www.sih.gov.in/) (20 Sept 24)
 3. [D2C.Connect Hackathon 2024](https://unstop.com/hackathons/d2cconnect-hackathon-2024-growbinar-1138613?rstatus=1) (12 Sept 24)
 
 ## Discontinued Competitions
