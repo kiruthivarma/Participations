@@ -1,7 +1,7 @@
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
 ### 1. Coding & Quiz
-1. 
+1.  [TCS Codevita](https://codevita.tcsapps.com) 
 
 ### 2. Hackathons
 1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (23 Sept 24)
