@@ -1,7 +1,8 @@
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
 ### 1. Coding & Quiz
-1.  [TCS Codevita](https://codevita.tcsapps.com) 
+1.  [TCS Codevita Season 12](https://codevita.tcsapps.com) 
+2. 
 
 ### 2. Hackathons
 1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (23 Sept 24)
@@ -13,7 +14,7 @@ The listed ones are the ones I am waiting for the results to move to the next ro
 
 ## Final Results
 Just waiting for the final results to arrive
-1. [Tata Imagination Challenge 2024: Student Track](https://unstop.com/competitions/tata-imagination-challenge-2024-student-track-tata-imagination-challenge-2024-tata-group-1096490) (Round 2)
+1. 
 
 ## Legacy Competitions
 1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
