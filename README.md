@@ -1,7 +1,7 @@
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
 ### 1. Coding & Quiz
-1.  [TCS Codevita Season 12](https://codevita.tcsapps.com) 
+1. [TCS Codevita Season 12](https://codevita.tcsapps.com) 
 2. 
 
 ### 2. Hackathons
