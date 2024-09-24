@@ -5,8 +5,7 @@ Below are the competitions registered by me to prepare & participate...
 2. 
 
 ### 2. Hackathons
-1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (23 Sept 24)
-2. [Smart India Hackathon 2024](https://www.sih.gov.in/) (20 Sept 24)
+1. [Smart India Hackathon 2024](https://www.sih.gov.in/) (30 Sept 24)
 
 ## On Progress
 The listed ones are the ones I am waiting for the results to move to the next round
@@ -14,7 +13,7 @@ The listed ones are the ones I am waiting for the results to move to the next ro
 
 ## Final Results
 Just waiting for the final results to arrive
-1. 
+1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (10 Oct 24)
 
 ## Legacy Competitions
 1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
