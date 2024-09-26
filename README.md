@@ -1,6 +1,6 @@
 ## To do's
 1. Innopreneurs
-2. 
+2. [MSME Hackathon](https://my.msme.gov.in/inc/HIRegistration.aspx)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
@@ -30,6 +30,7 @@ Just waiting for the final results to arrive
 8. Tata Imagination Challenge (Aug)
 9. Tata Crucible Campus Quiz (Aug)
 10. [TCS Codevita](https://codevita.tcsapps.com) (Sept)
+11. [MSME Idea Hackathon](https://innovative.msme.gov.in/) (Sept)
 
 
 ## Competition Sources (Checklist)
