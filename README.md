@@ -1,6 +1,6 @@
 ## To do's
 1. Innopreneurs
-2. [MSME Hackathon](https://my.msme.gov.in/inc/HIRegistration.aspx)
+2. [MSME Hackathon 4.0](https://my.msme.gov.in/inc/HIRegistration.aspx)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
