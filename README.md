@@ -1,6 +1,7 @@
 ## To do's
-1. Innopreneurs
+1. I[nnopreneurs](https://www.innopreneurs.in/)
 2. [MSME Hackathon 4.0](https://my.msme.gov.in/inc/HIRegistration.aspx)
+3. [Eureka](https://www.ecell.in/eureka)
 
 ## Upcoming Registered Competitions
 Below are the competitions registered by me to prepare & participate...
@@ -18,6 +19,7 @@ The listed ones are the ones I am waiting for the results to move to the next ro
 ## Final Results
 Just waiting for the final results to arrive
 1. [Dr. KALAM BEST ACHIEVER AWARD 2024](https://www.wyfonline.org/) (10 Oct 24)
+2. RBI Quiz
 
 ## Legacy Competitions
 1. [Global Innovation Challenge - Social Shifters](https://www.socialshifters.co/global-innovation-challenge/) (June)
@@ -31,6 +33,9 @@ Just waiting for the final results to arrive
 9. Tata Crucible Campus Quiz (Aug)
 10. [TCS Codevita](https://codevita.tcsapps.com) (Sept)
 11. [MSME Idea Hackathon](https://innovative.msme.gov.in/) (Sept)
+12. [National Entrepreneurship Challenge](https://www.ecell.in/nec/) (Aug)
+13. [Eureka](https://www.ecell.in/eureka) (Sept)
+14. [Innopreneurs](https://www.innopreneurs.in/) (Sept)
 
 
 ## Competition Sources (Checklist)
