@@ -1,6 +1,6 @@
 ## To do's
 1. I[nnopreneurs](https://www.innopreneurs.in/) 
-2. [MSME Hackathon 4.0](https://my.msme.gov.in/inc/HIRegistration.aspx) (26 Sept 24)
+2. [MSME Hackathon 4.0](https://my.msme.gov.in/inc/HIRegistration.aspx) (10 Oct 24)
 3. [Eureka](https://www.ecell.in/eureka) (29 Sept 24)
 4. [Accenture Innovation Challenge 2024](https://vision.hack2skill.com/event/aic2024) (6 Oct 24)
 ## Upcoming Registered Competitions
